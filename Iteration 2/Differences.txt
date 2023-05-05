@@ -1,0 +1,9 @@
+Some classes presented in the sequence diagrams may have different names than the ones in the Project, but
+serve simular purpose. Such examples are "DisplayControl" in the diagram and "GUI" in the project, and
+"DisplaySettings" in the diagram and "EventHandler" in the project. The reason for the difference in names is
+because the sequence diagram and the coding of the project were done at the same time, and while each had simular ideas,
+the titles given to the concepts differed slightly.
+
+Along with name differences, some functions shown in the sequence diagram may not appear in the project. One such function would
+be changeColorPattern(). The reason for the absence of some functions is either they were deemed redudant by another function, or
+implimentation was cut back due to time constraints.
